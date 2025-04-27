@@ -296,4 +296,8 @@ def generate_liquidity_chart(cache_dir="liquiditychart", cache_filename="liquidi
 
 if __name__ == "__main__":
     # main()  # Disabled to prevent GUI popups when run directly
+<<<<<<< HEAD
     pass
+=======
+    pass
+>>>>>>> 9ae023d (Initial open source release of LNhelperBot)
